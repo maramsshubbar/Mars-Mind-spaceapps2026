@@ -1,5 +1,9 @@
 # 🚀 Mars Mind (NASA Space Apps 2026)
 
+**[Open the live demo](https://mars-mind-spaceapps2026.vercel.app/)**
+
+[![MarsMind home screen with an illustrated globe of Mars](docs/marsmind-preview.jpg)](https://mars-mind-spaceapps2026.vercel.app/)
+
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/Frontend-React_18_%2B_Vite-61DAFB?style=flat&logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat&logo=typescript)](https://www.typescriptlang.org)
